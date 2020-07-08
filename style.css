@@ -53,10 +53,9 @@ h1{
     width: 20px;
     
 }
-span{
+.icon-text{
     font-size: 15px;
 }
-
 h1.Heading{
     text-align: center;
     margin-top: 50px;
