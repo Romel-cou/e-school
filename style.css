@@ -37,6 +37,7 @@ h1{
 .card-deck{
     justify-content: center;
     list-style: none;
+    
 }
 .card{
     border: none;
@@ -50,12 +51,25 @@ h1{
 
 .icon-img{
     width: 20px;
+    
 }
+span{
+    font-size: 15px;
+}
+
 h1.Heading{
     text-align: center;
     margin-top: 50px;
     font-weight: bold;
+    padding: 50px 0;
     
+}
+.Heading-online{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    color: #413960;
+    padding: 50px 0;
 }
 .media-body{
     margin-left: 50px;
@@ -65,6 +79,7 @@ h1.Heading{
     width:250px; 
     height:250px;
 }
+
 
 footer .container-fluid{
     background-color: #282531;
@@ -76,7 +91,11 @@ footer .container-fluid{
     font-weight: bold;
     margin-top: 30px;
 }
-
+.social-icon a img {
+    width: 50px;
+    margin-top:30px;
+    margin-right: 22px;
+}
 ul{
     list-style: none;
     margin-left: 20px;
