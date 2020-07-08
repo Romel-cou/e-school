@@ -1,0 +1,96 @@
+#color{
+    background-color: #ECFFF1;
+    background: #ECFFF1;
+}
+.logo{
+    width: 170px;
+}
+
+li a{
+    margin: 0px; 
+}
+.nav-item{
+    color:#21B573;
+}
+
+.btn{
+    border: none;
+    border-radius: 20px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-right: 1.5rem;
+	padding-left: 1.5rem;
+}
+
+p{
+    margin-top: 30px;
+}
+
+h1{
+    font-weight: bold;
+}
+.img-top {
+	width: 60px;
+    margin-left: 46px;
+    padding: 0px;
+}
+
+.card-deck{
+    justify-content: center;
+    list-style: none;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px whitesmoke;
+}
+.cat-title {
+	width: 148px;
+	padding: 0px 0px;
+}
+
+.icon-img{
+    width: 20px;
+}
+
+h1.Headline{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    
+}
+.media-body{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#Manimg{
+    width:250px; 
+    height:250px;
+}
+
+footer .container-fluid{
+    background-color: #282531;
+    color: #fff;
+}
+
+.Footer-headlink{
+    margin-left: 58px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+ul{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+ul li a{
+    color: rgb(226, 220, 220);
+}
+
+ul li a:hover{
+    text-decoration: none;
+    color: rgb(79, 79, 192);
+}
